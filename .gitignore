@@ -1,0 +1,14 @@
+# Environments
+.env
+
+# Log files
+test.log
+
+# Python cache
+__pycache__/
+
+# Documentation
+api_doc.md
+
+# Demo files
+demo.py
